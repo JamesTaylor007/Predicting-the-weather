@@ -27,6 +27,7 @@ Step 1: Initialise weights and biases to random starting points.
 - Assign random small weights and biases to all nodes
 
 Step 2: Select a data point
+
 Step 3: Make a forward pass and then calculate error
 
 - Make a forward pass through the network computing the weighted sums (Sj)
