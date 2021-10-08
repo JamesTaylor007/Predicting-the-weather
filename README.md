@@ -7,7 +7,7 @@ The data that was provided to us had a few spurious data points, therefore the f
 
 <img width="485" alt="Screen Shot 2021-08-02 at 10 44 53" src="https://user-images.githubusercontent.com/62481908/127841402-030c9e28-f76f-4a82-8c63-3898336276ad.png">
 
-As you can see in thr graph above straight away there are points which you know to be inncorrect. The hottest day ever recorded is 56.7 degrees and therefore you can automatically disregard a few of those data points. I then repeated this process for every predictor and predictand. 
+As you can see in the graph above straight away there are points which you know to be inncorrect. The hottest day ever recorded is 56.7 degrees and therefore you can automatically disregard a few of those data points. I then repeated this process for every predictor and predictand. 
 
 # Splitting up the data
 
